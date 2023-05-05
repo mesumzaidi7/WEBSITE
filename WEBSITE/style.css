@@ -1,0 +1,93 @@
+html {
+  background: url("img/mosque.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 3px;
+  font-size: 40px;
+}
+
+body {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+.nav a {
+  margin: 0px 25px;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  padding: 5px 16px;
+  border-radius: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-decoration: none;
+}
+
+.home3 {
+  font-size: 12px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.home2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+.title1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.about1 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.title2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.about2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.about3 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.title4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+.about4 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+button {
+  background-color: black;
+  color: white;
+  padding: 5px;
+  border-radius: 100px;
+}
+
+button:hover {
+  color: black;
+  background-color: cyan;
+}
